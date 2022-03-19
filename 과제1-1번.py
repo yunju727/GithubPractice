@@ -1,5 +1,6 @@
 # 컴퓨터공학부 202103307 조윤주!
 #I'm subyunju727
+# first pull request
 n=list(map(int,input("숫자 세개를 입력해주세요.").split()))	#map함수를 이용하면 입력받은 수를 정수로 각각 리스트에 저장할 수 있어서 사용하였다.
 def gcd(a, b):	#두수의 최대공약수를 구하는 함수
 	while a*b!=0:	#a=0 or b=0이면 while문을 빠져나간다
