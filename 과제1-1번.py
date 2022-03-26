@@ -1,4 +1,5 @@
 # 컴퓨터공학부 202103307 조윤주!
+# 수정 by Tjdnjs
 #I'm subyunju727
 # pull request 수정(2)
 # 같은 거 수정하기
